@@ -13013,7 +13013,7 @@ module PlatformAPI
           "targetSchema": {
             "$ref": "#/definitions/source"
           },
-          "title": "Create (Deprecated)"
+          "title": "Create Deprecated"
         }
       ],
       "properties": {
